@@ -1,5 +1,5 @@
 @echo off
-title Password Bruteforce Attack - by SlashGamerX
+title Bruteforce Attack - by SlashGamerX
 color A
 echo.
 set /p ip="Enter IP Address: "
